@@ -1,19 +1,21 @@
-# Teste
-## Teste
-### Teste
-**Testando**
-*Testando*
+===============
+Jogo do Sensimo
+===============
 
-* BEEP
-* BOOP
-* BOP
+### V. 0.0.2
 
-1. Testando
-2. Testando
-3. Testando
+**Mudanças:**
+- Sensimo adicionado como desenho ASCII
+- Sensimo2 adicionado como desenho ASCII
+- Adicionado o PLOT de acordar o Sensimo
+- Jogo renomeado para SENSIMO.py
 
-> Teste
 
-[Link para teste](https://github.com/isk-L/Teste.git)
+Versões Antigas
+---------------
 
-```EMPURRANDO!!!```
+### V. 0.0.1
+
+**Mudanças:**
+- *adivinha.py* criado com 40 linhas de código totais
+- Adivinhe o número que Sensimo está pensando!
