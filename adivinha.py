@@ -1,17 +1,17 @@
 import random
 
-art = r"""ㅤ
-  ╱\
-（ﾟ. ｡７
-ㅤ ı、~ヽ
-ㅤ じしf_,)ノ
+art = r"""
+  ^~^  ,
+ (-Y-) )
+ /   \/
+(\|||/) 
 """
 
-art2 = r"""ㅤ
-  ╱\
-（ﾟw ｡７
-ㅤ ı、~ヽ
-ㅤ じしf_,)ノ
+art2 = r"""
+  ^~^  ,
+ ('Y') )
+ /   \/
+(\|||/) 
 """
 def guess_the_number():
     secret_number = random.randint(1, 100)
